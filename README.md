@@ -1,4 +1,4 @@
-# Class12Python
+# Python Programs
 You can find all the Python Programs of class 11 and 12 
 
 ## how to use 
