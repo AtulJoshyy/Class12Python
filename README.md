@@ -1,5 +1,5 @@
 # PYTHON PROGRAM
-ONE STEP FOR ALL CLASS 12 & 11 PYTHON PROGRAM
+ONE STOP FOR ALL CLASS 12 & 11 PYTHON PROGRAM
 
 ## How to Use
 * If you are just here to clarify a doubt then feel free to browse in here (I am pretty sure that you will find the code)
